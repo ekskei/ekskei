@@ -2,7 +2,7 @@
 - 您是第 <img src="https://profile-counter.glitch.me/ekskei/count.svg" /> 位访问者.
 ## Personal info
 - I am a developer in China.
-- I use C/C++, Java, JavaScript, Python.
+- I use C/C++, Java, JavaScript, Python, Go and Rust.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekskei&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekskei&theme=github_dark)
