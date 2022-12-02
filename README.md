@@ -1,10 +1,8 @@
 ## Hi there 👋
-
-- You are the <img src="https://profile-counter.glitch.me/ekskei/count.svg" />  visitor
-
+- 您是第 <img src="https://profile-counter.glitch.me/ekskei/count.svg" /> 位访问者.
 ## Personal info
 - I am a developer in China.
-- I use C/C++, Java, JavaScript, Python
+- I use C/C++, Java, JavaScript, Python.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekskei&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekskei&theme=github_dark)
